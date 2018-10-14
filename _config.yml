@@ -60,5 +60,6 @@ cdn:
   popper_hash:      "sha384-GM0Y80ecpwKxF1D5XCrGanKusGDy9WW0O2sSM84neB4iFhvKp3fwnoIRnPsQcN1R"
 
 toc:
+  ignore_within:    ".bd-example"
   min_level:        2
   max_level:        4
