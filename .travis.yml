@@ -3,7 +3,7 @@ addons:
   chrome: stable
 language: node_js
 git:
-  depth: 3
+  depth: 1
 node_js:
   - "10"
 install:
